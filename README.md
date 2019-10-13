@@ -35,3 +35,46 @@ Before we can do anything in the GitHub app, we'll first need to go back to gith
 
 ### Step 4: Creating a New Repository
 In GitHub, the public folder in the cloud where you can store, update, and share all the files that make up your website is called a “repository”. In order to create a “repo” (as the cool kids say), click on this green button that says “New Repository.”
+
+
+### Step 5: Creating a New Repository part 2
+Clicking that button should bring you to the new repository creation screen, which should look something like the following image.
+The first step we’ll take on this page is to name our new repository. Feel free to choose whatever name you like. Just know that if your name includes spaces, GitHub will automatically convert them into hyphens for you, since spaces aren’t allowed.
+To keep it really simple for this example, we’ll just name our first repository after our user name: “gasamplepage.”
+After naming our new repository, we don’t need to adjust any other settings, so we’ll just click on “Create Repository.”
+
+## Step 6: Setting up in Desktop
+Y a y ! W e m a d e a n e w r e p o s i t o r y . O u r n e x t b i g s t e p i s t o a d d o u r w e b s i t e ’ ​s ​f i l e s t o i t . T o g e t started, click on the “Set up in Desktop” button. This brings us back to the GitHub App we downloaded earlier.
+
+### Step 7: “Cloning”our Repository
+When you re­open the app, a message should pop­up that says “Clone As” with the name of our new repository pre­entered. Basically, “cloning” means that we’re copying our GitHub repository from the cloud and saving it as a local folder on our computer.
+
+Doing this will allow you to add and edit files locally, then sync up those changes to your GitHub repository in the cloud when you’re done.
+
+Save this new repository folder somewhere that will be easy to find, like your Documents folder or your Desktop. Then, click “Clone.”
+
+This will produce a local folder with the name written in the “Clone As” field, and it will be located wherever you decided in the “Where” field.
+
+### Step 8: Adding Files to our Repository
+Shrink the GitHub app and find the cloned local folder you just created. If you saved it to your desktop, then go to your desktop. If you saved it to your documents folder, go there. etc.
+
+Once you find your new cloned folder, put the HTML and CSS files making up your web page inside of it, preserving the directory structure.
+Once you do that, go back to the GitHub App.
+
+### Step 9: Syncing our Repository
+Depending on your software, the layout of your GitHub app might look different than what’s seen below. Don’t worry, for our needs, the difference is purely cosmetic, and the steps are essentially the same. Just take the following steps, and you’ll have your page online in no time!
+(1)​Make sure you’re in the section labelled “Changes.”
+(2)​In the summary field, type a message describing this update. We’ll write “syncing my new repository!” Later, when we’re making updates, our summaries might look like “changed the background color and logo size per client’s request.”
+(3)​Press the “Commit to Master” button. (4)​Click on the “Publish” button.
+
+### Step 10: Loading Your Page (aka OMG We’re Finally Done!)
+Unfortunately,​the very first time you commit and sync a new repository, it can take anywhere between 0 and 30 minutes for GitHub to get your files up online. The good news is that every time you sync after this, it’ll be pretty much instantaneous.
+
+Once that’s done, the final step is to visit our newly hosted files, so let’s go back to our web browser. In the URL bar, we’ll type in github.com, followed by a slash and then your username. So in this case, I’m going to type in github.com/gasamplepage.
+
+What you see now is your GitHub profile page. In the center of the screen, we’ll see the repository we just created. Let’s click on that.
+  Great, so here we can see our new repository with all of our files in it. If you like, you can click on any of these individual files and GitHub will show you what’s inside. We can share a link to this page with anyone we might want to share our code with, for example, your instructor, TA or mentor.
+
+If you ever want to update or adjust the files in your repository, just change the files as needed, and then re­commit and sync them in the Github app.
+
+THE END
